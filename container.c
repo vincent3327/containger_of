@@ -45,4 +45,3 @@ int main()
 	printf("container_of(ptr1,stu,c)->score = %d\n",stptr->score);
 	
 }
-add by local 202006301853 
